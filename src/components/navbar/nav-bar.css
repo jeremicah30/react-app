@@ -1,0 +1,26 @@
+.nav-bar {
+  position: absolute;
+  background: #21222a;
+  width: 100vw;
+}
+
+.sub-con {
+  display: flex;
+  align-items: center;
+  padding: 0 40px;
+  height: 90px;
+}
+
+.nav-img {
+  height: 30px;
+}
+
+.nav-h3 {
+  margin-left: 5px;
+  color: #61dafb;
+}
+
+.nav-h4 {
+  margin-left: auto;
+  color: #fff;
+}

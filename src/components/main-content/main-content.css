@@ -1,0 +1,33 @@
+.main-content {
+  background: #282d35;
+  height: 100vh;
+  width: 100vw;
+  color: #fff;
+}
+
+.bg-gray {
+  height: 100%;
+  width: 100%;
+  background-image: url("../../image/react-icon-gray.jpg");
+  background-repeat: no-repeat;
+  background-position-x: right;
+  background-position-y: center;
+}
+
+.mc-h1 {
+  padding: 150px 0 30px 30px;
+}
+
+.mc-items {
+  padding: 0 70px;
+}
+
+.mc-items > li {
+  line-height: 19px;
+  padding-block: 10px;
+}
+
+.mc-items > li::marker {
+  color: #61dafb;
+  font-size: 1.5rem;
+}
